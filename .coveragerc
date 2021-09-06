@@ -1,0 +1,6 @@
+[run]
+source =
+    package
+
+[report]
+show_missing = True

@@ -1,6 +1,6 @@
 [run]
 source =
-    package
+    src
 
 [report]
 show_missing = True

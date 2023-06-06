@@ -17,6 +17,9 @@ numpy==1.24.3
 packaging==23.1
 pillow==9.5.0
 pyparsing==3.0.9
+pyqt5==5.15.9
+pyqt5-qt5==5.15.2
+pyqt5-sip==12.12.1
 python-dateutil==2.8.2
 six==1.16.0
 termcolor==1.1.0
